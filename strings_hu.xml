@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Jobbra</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Kapcsolja be a főkapcsolót jobboldalt felül. Ez szükséges ahhoz, hogy automatizáljuk a swipeot Tinderben.\n\nMegjegyzés:\nEgy figyelmeztetést kaphat miután elfordítja a képernyőt, de ne aggódjon emiatt, mert az AutoSwipe nem tárol semmilyen személyes információt.</string>
+    <string name="enable_accessibility">Kérjük tegye lehetővé az elérést</string>
+    <string name="accessibility_tutorial_message">Az aktiváláshoz engedélyezze az AutoSwipeot a következő képernyőkön.</string>
+    <string name="not_now">Most nem</string>
+    <string name="enable">AKTIVÁLÁS</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Fiókom</string>
+    <string name="nav_add_recipient">Címzettek hozzáadása</string>
+    <string name="nav_rate_app">Applikáció értékelése</string>
+    <string name="nav_help_feedback">Segítség &amp; Vélemény</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Törlés</string>
+    <string name="autoswipe_plus"><b>Szerezze meg az Autoswipe Plust</b><small>\n *Korlátlan swipeok.\n *Hirdetések nélkül.</small></string>
+    <string name="wait_to_load">Kérem várjon, amíg betölt a video</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Hoppá!</string>
+    <string name="tinder_dialog_message">Úgy tűnik, hogy a Tinder nem töltődött le. Engedje meg, hogy átirányítsuk.</string>
+    <string name="dialog_title">Jogosultságok hozzáadása</string>
+    <string name="swipes_left">Swipeok Balra :</string>
+    <string name="click_to_stop">Kattintson a megállításhoz!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">PREMIUM FELHASZNÁLÓ</string>
+    <string name="dialog_message">Kérjük engedélyezze a hozzáféréseket a következő képernyőkön, hogy az aplikáció működhessen.</string>
+
+    <string name="control_speed">Swipe Sebessége</string>
+</resources>
