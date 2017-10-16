@@ -4,8 +4,7 @@
     <string name="magic_assistant">**AutoSwipe**</string>
     <string name="service_description">Allumez l'interrupteur en haut à droite. Ceci est nécessaire pour automatiser le balayage dans Tinder.\n\nRemarque:\nVous pouvez recevoir un avertissement après avoir tourné cet écran. Vous pouvez sans risque ignorer cela, car AutoSwipe ne collecte aucune de vos informations personnelles.</string>
     <string name="enable_accessibility">Veuillez activer l'accessibilité</string>
-    <string name="accessibility_tutorial_message">
-Pour activer, autorisez AutoSwipe dans les écrans à venir.</string>
+    <string name="accessibility_tutorial_message">Pour activer, autorisez AutoSwipe dans les écrans à venir.</string>
     <string name="not_now">PAS MAINTENANT</string>
     <string name="enable">ACTIVER</string>
     <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
