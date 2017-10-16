@@ -4,7 +4,7 @@
     <string name="magic_assistant">**AutoSwipe**</string>
     <string name="service_description">Aktiviere den Schalter oben rechts damit der Swipe-Vorgang auf Tinder automatisiert werden kann.\n\nAchtung:\nEs kann sein, dass nach diesem Bild eine Warnung angezeigt wird. Da AutoSwipe keine persönlichen Daten sammelt, kannst Du diese aber einfach ignorieren</string>
     <string name="enable_accessibility">Bitte aktiviere den barrierefreien Modus</string>
-    <string name="accessibility_tutorial_message">Erlaube AutoSwipe auf den nächsten Anzeigen, um das Feature zu aktivieren.</string>
+    <string name="accessibility_tutorial_message">Erlaube AutoSwipe auf den n&auml;chsten Anzeigen, um das Feature zu aktivieren.</string>
     <string name="not_now">JETZT NICHT</string>
     <string name="enable">AKTIVIEREN</string>
     <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
