@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Ative o botão no canto direito superior. Isso é necessário para nós automatizarmos as curtidas no Tinder.\n\nObservação:\nVocê poderá receber um aviso após passar essa tela. Você pode ignorar isso, visto que o AutoSwipe não coleta nenhuma das suas informações pessoais.</string>
+    <string name="enable_accessibility">Por favor habilite a acessibilidade</string>
+    <string name="accessibility_tutorial_message">Para ativar, permita o AutoSwipe nas próximas telas.</string>
+    <string name="not_now">AGORA NÃO</string>
+    <string name="enable">ATIVAR</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Minha Conta</string>
+    <string name="nav_add_recipient">Adicionar Recipientes</string>
+    <string name="nav_rate_app">Avaliar Aplicativo</string>
+    <string name="nav_help_feedback">Ajuda &amp; Feedback</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="autoswipe_plus"><b>Obtenha o Autoswipe Plus</b><small>\n *Curtidas ilimitadas.\n *Sem propagandas.</small></string>
+    <string name="wait_to_load">Por favor espere o vídeo carregar</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Oops!</string>
+    <string name="tinder_dialog_message">Parece que o Tinder não está instalado. Permita-nos te redirecionar.</string>
+    <string name="dialog_title">Permissões do Aplicativo</string>
+    <string name="swipes_left">Não Curtidas :</string>
+    <string name="click_to_stop">Clique para parar!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">Usuário Premium</string>
+    <string name="dialog_message">Por favor, habilite as permissões nas telas seguintes para o aplicativo funcionar.</string>
+
+    <string name="control_speed">Velocidade de Curtidas</string>
+</resources>
