@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Включите переключатель в правом верхнем углу. Это нужно, чтобы автоматизировать смахивание в Tinder.\n\nОбратите внимание:\nпосле включения вы можете получить предупреждение. Его можно смело игнорировать, посольку AutoSwipe не собирает никакой персональной информации.</string>
+    <string name="enable_accessibility">Пожалуйста, включите специальные возможности</string>
+    <string name="accessibility_tutorial_message">Для активации дайте AutoSwipe разрешение на следующем экране.</string>
+    <string name="not_now">НЕ СЕЙЧАС</string>
+    <string name="enable">АКТИВИРОВАТЬ</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Моя учётная запись</string>
+    <string name="nav_add_recipient">Добавить получателей</string>
+    <string name="nav_rate_app">Оценить приложение</string>
+    <string name="nav_help_feedback">Справка и отзыв</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="autoswipe_plus"><b>Приобрести Autoswipe Plus</b><small>\n *ᯔеограниченное число смахиваний.\n *Без рекламы.</small></string>
+    <string name="wait_to_load">Пожалуйста, подождите загрузки видео</string>
+    <string name="min">МИН.</string>
+    <string name="max">МАКС.</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Ой!</string>
+    <string name="tinder_dialog_message">Кажется, Tinder не загружен. Позвольте нам перенаправить вас.</string>
+    <string name="dialog_title">Разрешения для приложения</string>
+    <string name="swipes_left">Смахиваний влево:</string>
+    <string name="click_to_stop">Щёлкните для остановки!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">ПРЕМИУМ-ПОЛЬЗОВАТЕЛЬ</string>
+    <string name="dialog_message">Для корректной работы приложения включите, пожалуйста, разрешения на следующих экранах.</string>
+
+    <string name="control_speed">Скорость смахивания</string>
+</resources>
