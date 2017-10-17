@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">AutoDeslizo a la Derecha</string>
-    <string name="facebook_app_name">AutoDeslizo Tinder</string>
-    <string name="magic_assistant">**AutoDeslizo**</string>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
     <string name="service_description">Prende el interruptor en la esquina superior derecha. Esto es necesario para automatizar el deslizar en Tinder.\n\nTen en cuenta:\nPodría aparecer un aviso al pasar esta pantalla. Se puede ignorar ya que AutoDeslizo no colecta su información personal.</string>
     <string name="enable_accessibility">Por favor habilite accesibilidad</string>
-    <string name="accessibility_tutorial_message">Para activar, permita a AutoDeslizo en las próximas pantallas.</string>
+    <string name="accessibility_tutorial_message">Para activar, permita a AutoSwipe en las próximas pantallas.</string>
     <string name="not_now">AHORA NO</string>
     <string name="enable">ACTIVAR</string>
-    <string name="accessibility_app_name" translatable="false">**AutoDeslizo**</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
 
     <string name="nav_profile">Mi Cuenta</string>
     <string name="nav_add_recipient">Agregar Recipientes</string>
