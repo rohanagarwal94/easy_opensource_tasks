@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Prende el interruptor en la esquina superior derecha. Esto es necesario para automatizar el deslizar en Tinder.\n\nTen en cuenta:\nPodría aparecer un aviso al pasar esta pantalla. Se puede ignorar ya que AutoDeslizo no colecta su información personal.</string>
+    <string name="enable_accessibility">Por favor habilite accesibilidad</string>
+    <string name="accessibility_tutorial_message">Para activar, permita a AutoSwipe en las próximas pantallas.</string>
+    <string name="not_now">AHORA NO</string>
+    <string name="enable">ACTIVAR</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Mi Cuenta</string>
+    <string name="nav_add_recipient">Agregar Recipientes</string>
+    <string name="nav_rate_app">Calificar Applicación</string>
+    <string name="nav_help_feedback">Ayuda &amp; Feedback</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="autoswipe_plus"><b>Obtén AutoSwipe Plus</b><small>\n *Deslizos ilimitados.\n *Sin anuncios.</small></string>
+    <string name="wait_to_load">Por favor espere a que se cargue el video</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Oops!</string>
+    <string name="tinder_dialog_message">Parece que Tinder no está descargado. Por favor déjenos redirigirte.</string>
+    <string name="dialog_title">Permisos de la applicación</string>
+    <string name="swipes_left">Desliza a la izquierda :</string>
+    <string name="click_to_stop">¡Haga clic para parar!</string>
+    <string name="autoswipe">AutoSwipe!</string>
+    <string name="premium">USUARIO PREMIUM</string>
+    <string name="dialog_message">Por favor habilite los permisos en las próximas pantallas para permitir el funcionamiento de la applicación.</string>
+
+    <string name="control_speed">Velocidad del deslice</string>
+</resources>
