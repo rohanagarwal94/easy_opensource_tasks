@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">AutoSwipe ke Kanan</string>
-    <string name="facebook_app_name">AutoSwipe Tinder</string>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
     <string name="magic_assistant">**AutoSwipe**</string>
     <string name="service_description">Nyalakan tombol di pojok kanan atas. Hal ini dibutuhkan untuk autoswiping di Tinder.\n\nCatatan:\nAnda mungkin mendapatkan peringatan setelah menyalakan layar ini. Anda bisa mengabaikan hal itu karena AutoSwipe tidak mengumpukul informasi personal anda</string>
     <string name="enable_accessibility">Harap nyalakan aksesibilitas</string>
