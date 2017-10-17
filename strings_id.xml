@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Nyalakan tombol di pojok kanan atas. Hal ini dibutuhkan untuk autoswiping di Tinder.\n\nCatatan:\nAnda mungkin mendapatkan peringatan setelah menyalakan layar ini. Anda bisa mengabaikan hal itu karena AutoSwipe tidak mengumpukul informasi personal anda</string>
+    <string name="enable_accessibility">Harap nyalakan aksesibilitas</string>
+    <string name="accessibility_tutorial_message">Untuk mengaktivasi, nyalakan AutoSwipe4 di layar selanjutnya.</string>
+    <string name="not_now">TIDAK SEKARANG</string>
+    <string name="enable">AKTIFKAN</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Akun saya</string>
+    <string name="nav_add_recipient">Tambahkan resipien</string>
+    <string name="nav_rate_app">Menilai Aplikasi</string>
+    <string name="nav_help_feedback">Bantuan &amp; Saran</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batalkan</string>
+    <string name="autoswipe_plus"><b>Dapatkan Autoswipe Plus</b><small>\n *Swipe tanpa batas.\n *Tanpa iklan.</small></string>
+    <string name="wait_to_load">Harap menunggu video memuat</string>
+    <string name="min">MIN</string>
+    <string name="max">MAKS</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Oops!</string>
+    <string name="tinder_dialog_message">Seperti Tinder belum terunduh. Mohon biarkan kami mengarahkan ulang anda</string>
+    <string name="dialog_title">Izin aplikasi</string>
+    <string name="swipes_left">Swipes ke kiri :</string>
+    <string name="click_to_stop">Klik untuk berhenti!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">PENGGUNA PREMIUM</string>
+    <string name="dialog_message">Harap nyalakan izin-izin dilayar berikutnya agar aplikasi dapat berkerja.</string>
+
+    <string name="control_speed">Kecepatan Swipe</string>
+</resources>
