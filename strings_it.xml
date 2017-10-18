@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Giusto</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Accendere l\'interruttore in alto a destra. Ciò è necessario per noi automatizzare lo scorrimento in Tinder.\n\nNota:\ndopo aver girato questa schermata, è possibile ricevere un avviso. Puoi tranquillamente ignorarlo, poiché AutoSwipe non raccoglie nessuna delle tue informazioni personali.</string>
+    <string name="enable_accessibility">Abilita l\'accessibilità</string>
+    <string name="accessibility_tutorial_message">Per attivare, consentire AutoSwipe nelle prossime schermate.</string>
+    <string name="not_now">NON ADESSO</string>
+    <string name="enable">ATTIVARE</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Il Mio Account</string>
+    <string name="nav_add_recipient">Aggiungi Destinatari</string>
+    <string name="nav_rate_app">Rate App</string>
+    <string name="nav_help_feedback">Aiuto &amp; Risposta</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annulla</string>
+    <string name="autoswipe_plus"><b>Prendi Autoswipe Plus</b><small>\n *Scatti illimitati.\n *Nessuna pubblicità.</small></string>
+    <string name="wait_to_load">Si prega di attendere il caricamento del video</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Spiacenti!</string>
+    <string name="tinder_dialog_message">Sembra che Tinder non sia scaricato. Permetteteci di reindirizzarti.</string>
+    <string name="dialog_title">Autorizzazioni delle Applicazioni</string>
+    <string name="swipes_left">Spinge a Sinistra :</string>
+    <string name="click_to_stop">Fare clic su Stop!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">UTENTE PREMIUM</string>
+    <string name="dialog_message">Attiva le autorizzazioni nelle seguenti schermate per che l'applicazione funzioni.</string>
+
+    <string name="control_speed">Spostare la velocità</string>
+</resources>
