@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Zet de schakelaar rechtsboven aan om het automatisch swipen in Tinder mogelijk te maken.\n\nAttentie:\nJe krijgt misschien een waarschuwing. AutoSwipe verzamelt geen persoonlijke gegevens, de melding kan genegeerd worden.</string>
+    <string name="enable_accessibility">Zet de toegankelijkheids modus aan.</string>
+    <string name="accessibility_tutorial_message">Sta AutoSwipe toe in de volgende schermen om de feature aan te zetten.</string>
+    <string name="not_now">NU NIET</string>
+    <string name="enable">AANZETTEN</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Mijn Account</string>
+    <string name="nav_add_recipient">Voeg Ontvanger Toe</string>
+    <string name="nav_rate_app">Beoordeel App</string>
+    <string name="nav_help_feedback">Help &amp; Feedback</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuleer</string>
+    <string name="autoswipe_plus"><b>Neem Autoswipe Plus</b><small>\n *Oneindig aantal swipes.\n *Geen reclames.</small></string>
+    <string name="wait_to_load">Wacht tot het filmpje is geladen.</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Oeps!</string>
+    <string name="tinder_dialog_message">Het lijkt erop alsof Tinder niet geinstalleerd is. Sta ons toe om je door te sturen.</string>
+    <string name="dialog_title">App Permissies</string>
+    <string name="swipes_left">Swipes Links :</string>
+    <string name="click_to_stop">Klik Om Te Stoppen!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">PREMIUM GEBRUIKER</string>
+    <string name="dialog_message">Sta de permissies in de volgende schermen toe om de applicatie te laten werken.</string>
+
+    <string name="control_speed">Swipe Snelheid</string>
+</resources>
