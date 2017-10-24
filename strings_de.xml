@@ -2,7 +2,7 @@
     <string name="app_name">AutoSwipe Right</string>
     <string name="facebook_app_name">Tinder Autoswipe</string>
     <string name="magic_assistant">**AutoSwipe**</string>
-    <string name="service_description">Aktiviere den Schalter oben rechts damit der Swipe-Vorgang auf Tinder automatisiert werden kann.\n\nAchtung:\nEs kann sein, dass nach diesem Bild eine Warnung angezeigt wird. Da AutoSwipe keine persönlichen Daten sammelt, kannst Du diese aber einfach ignorieren</string>
+    <string name="service_description">Aktiviere den Schalter oben rechts damit der Swipe-Vorgang auf Tinder automatisiert werden kann.\n\nAchtung:\nEs kann sein, dass nach diesem Bild eine Warnung angezeigt wird. Da AutoSwipe keine persönlichen Daten sammelt, kannst du diese aber einfach ignorieren.</string>
     <string name="enable_accessibility">Bitte aktiviere den barrierefreien Modus</string>
     <string name="accessibility_tutorial_message">Erlaube AutoSwipe auf den n&auml;chsten Anzeigen, um das Feature zu aktivieren.</string>
     <string name="not_now">JETZT NICHT</string>
@@ -18,15 +18,15 @@
     <string name="ok">OK</string>
     <string name="cancel">Abbrechen</string>
     <string name="autoswipe_plus"><b>Autoswipe Plus erwerben</b><small>\n *Unlimitiert wischen.\n *Keine Werbung.</small></string>
-    <string name="wait_to_load">Bitte warte, bis das Video vollst&auml;ndig geladen ist</string>
+    <string name="wait_to_load">Bitte warte, bis das Video vollst&auml;ndig geladen ist.</string>
     <string name="min">MIN</string>
     <string name="max">MAX</string>
     <string name="facebook_app_id" translatable="false">526252461050957</string>
     <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
     <string name="tinder_dialog_title">Ups!</string>
-    <string name="tinder_dialog_message">Es scheint, Tinder ist nicht installiert. Du wirst umgeleitet.</string>
+    <string name="tinder_dialog_message">Es scheint, dass Tinder nicht installiert ist. Du wirst weitergeleitet.</string>
     <string name="dialog_title">App Berechtigungen</string>
-    <string name="swipes_left">Swipes nach links :</string>
+    <string name="swipes_left">Swipes nach links:</string>
     <string name="click_to_stop">Stop!</string>
     <string name="autoswipe">Autoswipe!</string>
     <string name="premium">PREMIUM BENUTZER</string>
