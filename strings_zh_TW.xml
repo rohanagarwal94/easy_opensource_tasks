@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">打開右上角的開關，這對於我們在Tinder中自動滑動是必要的。\n\n備註：\n轉動此螢幕後你可能會收到警告，你可以安全地忽略，因為AutoSwipe不會收集你的任何個人資訊</string>
+    <string name="enable_accessibility">請啟用輔助功能</string>
+    <string name="accessibility_tutorial_message">請在下一屏中啟用以允許使用AutoSwipe</string>
+    <string name="not_now">現在不要</string>
+    <string name="enable">啟用</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">我的帳戶</string>
+    <string name="nav_add_recipient">新增收件人</string>
+    <string name="nav_rate_app">評分此App</string>
+    <string name="nav_help_feedback">幫助及回饋</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">好</string>
+    <string name="cancel">取消</string>
+    <string name="autoswipe_plus"><b>取得 Autoswipe Plus</b><small>\n *無限滑動。\n *無廣告。</small></string>
+    <string name="wait_to_load">請等待影片載入</string>
+    <string name="min">最小值</string>
+    <string name="max">最大值</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">哎呀！</string>
+    <string name="tinder_dialog_message">似乎沒有下載Tinder，請讓我們為你重新導向。</string>
+    <string name="dialog_title">App權限</string>
+    <string name="swipes_left">剩餘滑動次數 :</string>
+    <string name="click_to_stop">點擊以停止！</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">高級用戶</string>
+    <string name="dialog_message">請在以下屏幕中啟用App權限</string>
+
+    <string name="control_speed">滑動速度</string>
+</resources>
