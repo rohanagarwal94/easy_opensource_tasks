@@ -1,0 +1,37 @@
+
+<resources>
+    <string name="app_name">ऑटोस्वाइप राइट</string>
+    <string name="facebook_app_name">टिन्डर ऑटोस्वाइप</string>
+    <string name="magic_assistant">**ऑटोस्वाइप**</string>
+    <string name="service_description">टर्न ऑन दी स्विच ऑन टॉप राइट. दिस इज़ नेससेरी फॉर अस टू ऑटमैट दी स्वाइपिंग इन टिन्डर.\n\nNote:\nYou may receive a warning after turning this screen. You may safely ignore that, as AutoSwipe doesn\'t collect any of your personal information.</string>
+    <string name="enable_accessibility">प्लीज़ इनैबल ऐक्सेसबिलिटी</string>
+    <string name="accessibility_tutorial_message">टू ऐक्टवैट, अलाउ ऑटोस्वाइप इन दी अप्कमिंग स्क्रीन.</string>
+    <string name="not_now">नाट नाउ</string>
+    <string name="enable"> ऐक्टवैट</string>
+    <string name="accessibility_app_name" translatable="false">**ऑटोस्वाइप**</string>
+
+    <string name="nav_profile">माइ अकाउन्ट</string>
+    <string name="nav_add_recipient">ऐड रिसिपीअन्ट</string>
+    <string name="nav_rate_app">रैट ऐप्लकेशन</string>
+    <string name="nav_help_feedback">हेल्प &amp; फीड्बैक</string>
+
+    <string name="icon_hint">ऑटोस्वाइप!</string>
+    <string name="ok">ओके</string>
+    <string name="cancel">कैन्सल</string>
+    <string name="autoswipe_plus"><b>गेट ऑटोस्वाइप प्लस</b><small>\n *अन्लिमिटिड स्वाइपस.\n *नो ऐडस.</small></string>
+    <string name="wait_to_load">प्लीज़ वैट फॉर दी विडीओ टू लोड</string>
+    <string name="min">न्यूनतम</string>
+    <string name="max">अधिकतम</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">उपस!</string>
+    <string name="tinder_dialog_message">इट सीम्ज़ लाइक टिन्डर इज़ नाट डाउनलोडीड. प्लीज़ अलाउ अस टू रीडरेक्ट यू.</string>
+    <string name="dialog_title">ऐप्लकेशन पर्मिशनस</string>
+    <string name="swipes_left">स्वाइपस लेफ्ट :</string>
+    <string name="click_to_stop">क्लिक टू स्टाप!</string>
+    <string name="autoswipe">ऑटोस्वाइप!</string>
+    <string name="premium">प्रीमीअम यूज़र</string>
+    <string name="dialog_message">प्लीज़ एनेबल दी पर्मिशनस इन दी फालोइंग स्क्रीनस फॉर दी ऐप्लकेशन टू वर्क.</string>
+
+    <string name="control_speed">स्वाइप स्पीड</string>
+</resources>
