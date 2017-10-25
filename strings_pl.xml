@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe w prawo</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Włącz przełącznik w prawym górnym rogu ekranu. Jest to konieczne aby włączyć automatyczny swipe w Tinderze.\n\nInformacja:\nMożliwe, że otrzymasz ostrzeżenie po włączeniu tego ekranu. Możesz je bezpiecznie zignorować, jako że AutoSwipe nie zbiera żadnych prywatnych danych.</string>
+    <string name="enable_accessibility">Proszę włączyć dostępność</string>
+    <string name="accessibility_tutorial_message">Aby aktywować AutoSwipe włącz uprawnienia na następnych ekranach</string>
+    <string name="not_now">NIE TERAZ</string>
+    <string name="enable">AKTYWUJ</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Moje konto</string>
+    <string name="nav_add_recipient">Dodaj odbiorców</string>
+    <string name="nav_rate_app">Oceń aplikację</string>
+    <string name="nav_help_feedback">Pomoc &amp; Feedback</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anuluj</string>
+    <string name="autoswipe_plus"><b>Pobierz Autoswipe Plus</b><small>\n *Nielimitowane swipe'y.\n *Brak reklam.</small></string>
+    <string name="wait_to_load">Poczekaj na załadowanie się wideo</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Oops!</string>
+    <string name="tinder_dialog_message">Wygląda na to, że Tinder nie jest zainstalowany. Pozwól nam przekierować cię.</string>
+    <string name="dialog_title">Dodaj uprawnienia</string>
+    <string name="swipes_left">Swipe w lewo:</string>
+    <string name="click_to_stop">Kliknij by zatrzymać!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">UŻYTKOWNIK PREMIUM</string>
+    <string name="dialog_message">Proszę włączyć uprawnienia na następnych ekranach aby umożliwić poprawne działanie aplikacji.</string>
+
+    <string name="control_speed">Szybkość swipe'u</string>
+</resources>
