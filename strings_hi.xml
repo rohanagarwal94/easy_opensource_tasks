@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**Autoswipe**</string>
+    <string name="service_description">शीर्ष दाईं ओर स्विच चालू करें । टिन्डर में स्वाइप करने के लिए स्वचालित रूप से यह आवश्यक है ।\n\n ध्यान दें:\nइस स्क्रीन को बदलने के बाद आपको एक चेतावनी प्राप्त हो सकती है।आप सुरक्षित रूप से इसे अनदेखा कर सकते हैं, ऑटोस्वाप आपकी कोई भी व्यक्तिगत जानकारी एकत्रित नहीं करता है ।</string>
+    <string name="enable_accessibility">कृपया पहुंच सक्षम करें</string>
+    <string name="accessibility_tutorial_message">सक्रिय करने के लिए, आगामी स्क्रीन में ऑटोस्वाप को अनुमति दें । </string>
+    <string name="not_now">अभी नहीं</string>
+    <string name="enable">सक्रिय</string>
+    <string name="accessibility_app_name" translatable="false">**Autoswipe**</string>
+
+    <string name="nav_profile">मेरा खाता</string>
+    <string name="nav_add_recipient">प्राप्तकर्ता जोड़ें</string>
+    <string name="nav_rate_app">Rate App</string>
+    <string name="nav_help_feedback">Help &amp; Feedback</string>
+
+    <string name="icon_hint">Autoswipe!</string>
+    <string name="ok">ठीक</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="autoswipe_plus"><b>Autoswipe Plus प्राप्त करें</b><small>\n *असीमित स्वाइप।\n *विज्ञापन नहीं।</small></string>
+    <string name="wait_to_load">वीडियो लोड करने के लिए कृपया प्रतीक्षा करें।</string>
+    <string name="min">कम</string>
+    <string name="max">अधिकतम</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">उफ़!</string>
+    <string name="tinder_dialog_message">ऐसा लगता है कि टिन्डर पहले से डाउनलोड नहीं है। कृपया हमें आपको पुनर्निर्देशित करने की अनुमति दें। </string>
+    <string name="dialog_title">ऐप अनुमतियां</string>
+    <string name="swipes_left">स्वाइप बाएं ओर:</string>
+    <string name="click_to_stop">बंद करने के लिए क्लिक करें!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">प्रीमियम उपयोगकर्ता</string>
+    <string name="dialog_message">ऐप को काम करने के लिए कृपया निम्नलिखित स्क्रीन में अनुमतियां सक्षम करें। </string>
+
+    <string name="control_speed">स्वाइप गति</string>
+</resources>
