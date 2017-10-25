@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">右へオートスワイプ</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**オートスワイプ**</string>
+    <string name="service_description">Turn ON the switch on top right. This is necessary for us to automate the swiping in Tinder.\n\nNote:\nYou may receive a warning after turning this screen. You may safely ignore that, as AutoSwipe doesn\'t collect any of your personal information.</string>
+    <string name="enable_accessibility">Please enable accessibility</string>
+    <string name="accessibility_tutorial_message">アクティベートするためには次の画面でオートスワイプを許可してください.</string>
+    <string name="not_now">NOT NOW</string>
+    <string name="enable">アクティベートする</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">マイアカウント</string>
+    <string name="nav_add_recipient">Add Recipients</string>
+    <string name="nav_rate_app">アプリの評価をする</string>
+    <string name="nav_help_feedback">ヘルプ &amp; フィードバック</string>
+
+    <string name="icon_hint">自動スワイプ!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="autoswipe_plus"><b>Get Autoswipe Plus</b><small>\n *Unlimited swipes.\n *No ads.</small></string>
+    <string name="wait_to_load">ビデオーのロード中です。暫くお待ち下さい。</string>
+    <string name="min">最低</string>
+    <string name="max">最高</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Oops!</string>
+    <string name="tinder_dialog_message">It seems like Tinder is not downloaded. Please allow us to redirect you.</string>
+    <string name="dialog_title">許可の追加</string>
+    <string name="swipes_left">左スワイプ :</string>
+    <string name="click_to_stop">クリックをして止める!</string>
+    <string name="autoswipe">オートスワイプ!</string>
+    <string name="premium">プレミアムユーザー</string>
+    <string name="dialog_message">Please enable the permissions in the following screens for the app to work.</string>
+
+    <string name="control_speed">Swipe Speed</string>
+</resources>
