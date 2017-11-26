@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">Aktiviere den Schalter oben rechts damit der Swipe-Vorgang auf Tinder automatisiert werden kann.\n\nAchtung:\nEs kann sein, dass nach diesem Bild eine Warnung angezeigt wird. Da AutoSwipe keine persönlichen Daten sammelt, kannst Du diese aber einfach ignorieren</string>
+    <string name="enable_accessibility">Bitte aktiviere den barrierefreien Modus</string>
+    <string name="accessibility_tutorial_message">Erlaube AutoSwipe auf den nächsten Anzeigen, um das Feature zu aktivieren.</string>
+    <string name="not_now">JETZT NICHT</string>
+    <string name="enable">AKTIVIEREN</string>
+
+    <string name="nav_profile">Mein Konto</string>
+    <string name="nav_add_recipient">Empfänger hinzufügen</string>
+    <string name="nav_rate_app">App bewerten</string>
+    <string name="nav_help_feedback">Hilfe &amp; Rückmeldung</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="wait_to_load">Bitte warte, bis das Video vollständig geladen ist</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="tinder_dialog_title">Ups!</string>
+    <string name="tinder_dialog_message">Es scheint, Tinder ist nicht installiert. Du wirst umgeleitet.</string>
+    <string name="dialog_title">App Berechtigungen</string>
+    <string name="swipes_left">Swipes nach links :</string>
+    <string name="click_to_stop">Stop!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">PREMIUM BENUTZER</string>
+    <string name="dialog_message">Bitte gewähre die Berechtigungen auf den folgenden Screens, damit die App funktioniert.</string>
+
+    <string name="control_speed">Swipe Geschwindigkeit</string>
+</resources>

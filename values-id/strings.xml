@@ -7,7 +7,6 @@
     <string name="accessibility_tutorial_message">Untuk mengaktivasi, nyalakan AutoSwipe4 di layar selanjutnya.</string>
     <string name="not_now">TIDAK SEKARANG</string>
     <string name="enable">AKTIFKAN</string>
-    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
 
     <string name="nav_profile">Akun saya</string>
     <string name="nav_add_recipient">Tambahkan resipien</string>
@@ -17,12 +16,9 @@
     <string name="icon_hint">AutoSwipe!</string>
     <string name="ok">OK</string>
     <string name="cancel">Batalkan</string>
-    <string name="autoswipe_plus"><b>Dapatkan Autoswipe Plus</b><small>\n *Swipe tanpa batas.\n *Tanpa iklan.</small></string>
     <string name="wait_to_load">Harap menunggu video memuat</string>
     <string name="min">MIN</string>
     <string name="max">MAKS</string>
-    <string name="facebook_app_id" translatable="false">526252461050957</string>
-    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
     <string name="tinder_dialog_title">Oops!</string>
     <string name="tinder_dialog_message">Seperti Tinder belum terunduh. Mohon biarkan kami mengarahkan ulang anda</string>
     <string name="dialog_title">Izin aplikasi</string>

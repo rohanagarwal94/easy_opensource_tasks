@@ -2,7 +2,8 @@
     <string name="app_name">AutoSwipe Right</string>
     <string name="facebook_app_name">Tinder Autoswipe</string>
     <string name="magic_assistant">**AutoSwipe**</string>
-    <string name="service_description">Turn ON the switch on top right. This is necessary for us to automate the swiping in Tinder.\n\nNote:\nYou may receive a warning after turning this screen. You may safely ignore that, as AutoSwipe doesn\'t collect any of your personal information.</string>
+    <string name="service_summary" translatable="false">The app uses the click functionality of the service</string>
+    <string name="service_description">Turn ON the switch on top right. The app only uses the click functionality of the service to automate the swiping in Tinder.\n\nNote:\nYou may receive a warning after turning this screen. You may safely ignore that, as AutoSwipe doesn\'t collect any of your personal information.</string>
     <string name="enable_accessibility">Please enable accessibility</string>
     <string name="accessibility_tutorial_message">To activate, allow AutoSwipe in the upcoming screens.</string>
     <string name="not_now">NOT NOW</string>
@@ -17,7 +18,7 @@
     <string name="icon_hint">AutoSwipe!</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
-    <string name="autoswipe_plus"><b>Get Autoswipe Plus</b><small>\n *Unlimited swipes.\n *No ads.</small></string>
+    <string name="autoswipe_plus" translatable="false"><b>Get Autoswipe Plus</b><small>\n *Unlimited swipes.\n *No ads.</small></string>
     <string name="wait_to_load">Please wait for the video to load</string>
     <string name="min">MIN</string>
     <string name="max">MAX</string>

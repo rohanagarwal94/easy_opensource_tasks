@@ -7,7 +7,6 @@
     <string name="accessibility_tutorial_message">Az aktiváláshoz engedélyezze az AutoSwipeot a következő képernyőkön.</string>
     <string name="not_now">Most nem</string>
     <string name="enable">AKTIVÁLÁS</string>
-    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
 
     <string name="nav_profile">Fiókom</string>
     <string name="nav_add_recipient">Címzettek hozzáadása</string>
@@ -17,12 +16,9 @@
     <string name="icon_hint">AutoSwipe!</string>
     <string name="ok">OK</string>
     <string name="cancel">Törlés</string>
-    <string name="autoswipe_plus"><b>Szerezze meg az Autoswipe Plust</b><small>\n *Korlátlan swipeok.\n *Hirdetések nélkül.</small></string>
     <string name="wait_to_load">Kérem várjon, amíg betölt a video</string>
     <string name="min">MIN</string>
     <string name="max">MAX</string>
-    <string name="facebook_app_id" translatable="false">526252461050957</string>
-    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
     <string name="tinder_dialog_title">Hoppá!</string>
     <string name="tinder_dialog_message">Úgy tűnik, hogy a Tinder nem töltődött le. Engedje meg, hogy átirányítsuk.</string>
     <string name="dialog_title">Jogosultságok hozzáadása</string>

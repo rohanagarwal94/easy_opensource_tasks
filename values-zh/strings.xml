@@ -7,7 +7,6 @@
     <string name="accessibility_tutorial_message">請在下一屏中啟用以允許使用AutoSwipe</string>
     <string name="not_now">現在不要</string>
     <string name="enable">啟用</string>
-    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
 
     <string name="nav_profile">我的帳戶</string>
     <string name="nav_add_recipient">新增收件人</string>
@@ -21,8 +20,6 @@
     <string name="wait_to_load">請等待影片載入</string>
     <string name="min">最小值</string>
     <string name="max">最大值</string>
-    <string name="facebook_app_id" translatable="false">526252461050957</string>
-    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
     <string name="tinder_dialog_title">哎呀！</string>
     <string name="tinder_dialog_message">似乎沒有下載Tinder，請讓我們為你重新導向。</string>
     <string name="dialog_title">App權限</string>
