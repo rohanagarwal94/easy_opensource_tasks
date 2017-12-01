@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ปัดขวาอัตโนมัติ</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**ปัดขวาอัตโนมัติ**</string>
+    <string name="service_description">เปิดสวิตซ์ด้านบนขวามือ แอพลิเคชั่นนี้ใช้เพียงการคลิ๊กในการปัด Tinder อัตโนมัติ\n\nหมายเหตุ:\nคุณอาจจะได้รับคำเตือนหลังจากนี้ แต่คุณไม่จำเป็นต้องสนใจ เพราะแอพลิเคชั่น AutoSwipe นี้ไม่ได้เก็บข้อมูลส่วนตัวของคุณ</string>
+    <string name="enable_accessibility">กรุณาเปิดการเข้าถึง</string>
+    <string name="accessibility_tutorial_message">ในการเปิดการใช้งาน กรุณาอนุญาตให้ AutoSwipe เข้าถึงในหน้าต่อไป</string>
+    <string name="not_now">ไม่ใช่ตอนนี้</string>
+    <string name="enable">เปิดการใช้งาน</string>
+
+    <string name="nav_profile">บัญชีของฉัน</string>
+    <string name="nav_add_recipient">เพิ่มผู้รับ</string>
+    <string name="nav_rate_app">ให้คะแนนแอพลิเคชั่น</string>
+    <string name="nav_help_feedback">ความช่วยเหลือ &amp; ผลตอบรับ</string>
+
+    <string name="icon_hint">ปัดอัตโนมัติ!</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="wait_to_load">กรุณารอวีดีโอดาวน์โหลดสักครู่</string>
+    <string name="min">ต่ำสุด</string>
+    <string name="max">สูงสุด</string>
+    <string name="tinder_dialog_title">อุ๊ย!</string>
+    <string name="tinder_dialog_message">เหมือนกับว่า Tinder ยังไม่ได้ถูกดาวน์โหลด กรุณาให้เราพาไปยังหน้าดาวน์โหลด</string>
+    <string name="dialog_title">สิทธิ์ของแอพลิเคชั่น</string>
+    <string name="swipes_left">ปัดไปด้านซ้าย :</string>
+    <string name="click_to_stop">กดเพื่อหยุด!</string>
+    <string name="autoswipe">ปัดอัตโนมัติ!</string>
+    <string name="premium">ผู้ใช้ระดับพรีเมียม</string>
+    <string name="dialog_message">กรุณาให้สิทธิ์กับแอพลิเคชั่นในหน้าถัดไป เพื่อให้แอพลิเคชั่นสามารถใช้งานได้</string>
+
+    <string name="control_speed">ความเร็วในการปัด</string>
+</resources>
