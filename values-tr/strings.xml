@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_summary" translatable="false">Bu uygulama servisin dokunma özelliğini kullanır</string>
+    <string name="service_description">Turn ON the switch on top right. The app only uses the click functionality of the service to automate the swiping in Tinder.\n\nNote:\nYou may receive a warning after turning this screen. You may safely ignore that, as AutoSwipe doesn\'t collect any of your personal information.</string>
+    <string name="enable_accessibility">Lütfen erişilebilirliği aktifleştirin<string>
+    <string name="accessibility_tutorial_message">Aktifleştirmek için, bir sonraki ekranda AutoSwipe'a izin verin</string>
+    <string name="not_now">ŞUAN DEĞİL</string>
+    <string name="enable">AKTİFLEŞTİR</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Benim Hesabım</string>
+    <string name="nav_add_recipient">Add Recipients</string>
+    <string name="nav_rate_app">Uygulamayı değerlendir</string>
+    <string name="nav_help_feedback">Yardım &amp; Geri Bildirim</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">TAMAM</string>
+    <string name="cancel">İptal et</string>
+    <string name="autoswipe_plus" translatable="false"><b>AutoSwipe Plus'ı al</b><small>\n *Sonsuz kaydırmalar.\n *Reklam yok</small></string>
+    <string name="wait_to_load">Lütfen videonun yüklenmesi için bekleyin</string>
+    <string name="min">MİN</string>
+    <string name="max">MAKS</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Hay aksi!</string>
+    <string name="tinder_dialog_message">Görünüyorki Tinder yüklü değil. Lütfen bizim sizi yönlendirmemize izin verin.</string>
+    <string name="dialog_title">Uygulama İzinleri</string>
+    <string name="swipes_left">Sola Kaydırmalar: </string>
+    <string name="click_to_stop">Durdurmak için tıklayın!</string>
+    <string name="autoswipe">Otomatik kaydır!</string>
+    <string name="premium">PREMIUM KULLANICI</string>
+    <string name="dialog_message">Lütfen bir sonraki ekranda uygulamanın çalışması için izinleri aktifleştirin.</string>
+
+    <string name="control_speed">Kaydırma Hızı</string>
+</resources>
