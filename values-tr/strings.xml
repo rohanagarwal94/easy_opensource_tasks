@@ -3,7 +3,7 @@
     <string name="facebook_app_name">Tinder Autoswipe</string>
     <string name="magic_assistant">**AutoSwipe**</string>
     <string name="service_summary" translatable="false">Bu uygulama servisin dokunma özelliğini kullanır</string>
-    <string name="service_description">Turn ON the switch on top right. The app only uses the click functionality of the service to automate the swiping in Tinder.\n\nNote:\nYou may receive a warning after turning this screen. You may safely ignore that, as AutoSwipe doesn\'t collect any of your personal information.</string>
+    <string name="service_description">Sağ üstteki düğmeyi açın. Bu uygulama sadece servisin dokunma özelliğini Tinder'da kaydırma için kullanır.\n\nNot:\nBunu aktifleştirdikten sonra bir uyarı alabilirsiniz. Bunu umursamanıza gerek yok, çünkü AutoSwipe herhangi bir kişisel verinizi toplamaz.</string>
     <string name="enable_accessibility">Lütfen erişilebilirliği aktifleştirin<string>
     <string name="accessibility_tutorial_message">Aktifleştirmek için, bir sonraki ekranda AutoSwipe'a izin verin</string>
     <string name="not_now">ŞUAN DEĞİL</string>
@@ -20,8 +20,8 @@
     <string name="cancel">İptal et</string>
     <string name="autoswipe_plus" translatable="false"><b>AutoSwipe Plus'ı al</b><small>\n *Sonsuz kaydırmalar.\n *Reklam yok</small></string>
     <string name="wait_to_load">Lütfen videonun yüklenmesi için bekleyin</string>
-    <string name="min">MİN</string>
-    <string name="max">MAKS</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
     <string name="facebook_app_id" translatable="false">526252461050957</string>
     <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
     <string name="tinder_dialog_title">Hay aksi!</string>
