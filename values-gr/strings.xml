@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Αυτόματο Σύρσιμο Δεξιά</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_summary" translatable="false">Η εφαρμογή χρησιμοποιεί τη λειτουργία κλικ της υπηρεσίας</string>
+    <string name="service_description">Ενεργοποιήστε το διακόπτη πάνω δεξιά. Η εφαρμογή χρησιμοποιεί μόνο τη λειτουργία κλικ της υπηρεσίας για να αυτοματοποιήσει το σύρσιμο στο Tinder.\n\nΣημείωση: \nΜπορεί να λάβετε μια προειδοποίηση αφού ανοίξετε αυτή την οθόνη. Μπορείτε ασφαλώς να την αγνοήσετε, καθώς το AutoSwipe δεν συλλέγει κανένα από τα προσωπικά σας στοιχεία.</string>
+    <string name="enable_accessibility">Παρακαλώ ενεργοποιήστε την προσβασιμότητα</string>
+    <string name="accessibility_tutorial_message">Για να το ενεργοποιήσετε, επιτρέψτε το AutoSwipe στις επόμενες οθόνες.</string>
+    <string name="not_now">ΟΧΙ ΤΩΡΑ</string>
+    <string name="enable">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Ο λογαριασμός μου</string>
+    <string name="nav_add_recipient">Προσθήκη παραληπτών</string>
+    <string name="nav_rate_app">Βαθμολογήστε την εφαρμογή</string>
+    <string name="nav_help_feedback">Βοήθεια &amp; Σχόλια</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">Εντάξει</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="autoswipe_plus" translatable="false"><b>Αποκτήστε το Autoswipe Plus</b><small>\n *Απεριόριστες παρακάμψεις.\n *Καθόλου διαφημίσεις.</small></string>
+    <string name="wait_to_load">Περιμένετε να φορτωθεί το βίντεο</string>
+    <string name="min">ΕΛΑΧΙΣΤΟ</string>
+    <string name="max">ΜΕΓΙΣΤΟ</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Ουπς!</string>
+    <string name="tinder_dialog_message">Φαίνεται ότι ο Tinder δεν έχει κατεβεί. Επιτρέψτε μας να σας ανακατευθύνουμε.</string>
+    <string name="dialog_title">Δικαιώματα Εφαρμογής</string>
+    <string name="swipes_left">Παράκαμψη αριστερά :</string>
+    <string name="click_to_stop">Κάντε κλικ για να σταματήσετε!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">ΧΡΗΣΤΗΣ PREMIUM</string>
+    <string name="dialog_message">Παρακαλώ ενεργοποιήστε τα δικαιώματα στις επόμενες οθόνες για να λειτουργήσει η εφαρμογή.</string>
+
+    <string name="control_speed">Ταχύτητα Παράκαμψης</string>
+</resources>
