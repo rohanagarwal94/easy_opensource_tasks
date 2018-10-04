@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Automatické přemístění vpravo</string>
+    <string name="facebook_app_name">Tinder Automatické přemístění</string>
+    <string name="magic_assistant">**Automatické přemístění**</string>
+    <string name="service_summary" translatable="false">Aplikace využíváte kliknutím na funkčnost služeb</string>
+    <string name="service_description">Zapněte přepínač vpravo nahoře. Aplikace využívá pouze funkce kliknutí služby pro automatizaci přetahování v Tinder.\n\nNote:\n Po zapnutí této obrazovky můžete obdržet varování. Můžete to bezpečně ignorovat, protože AutoSwipe nevyzvedá žádné vaše osobní údaje.</string>
+    <string name="enable_accessibility">Aktivujte přístup</string>
+    <string name="accessibility_tutorial_message">Chcete-li aktivovat, povolte funkci AutoSwipe na nadcházejících obrazovkách.</string>
+    <string name="not_now">TEĎ NE</string>
+    <string name="enable">AKTIVOVAT</string>
+    <string name="accessibility_app_name" translatable="false">**Automatické přemístění**</string>
+
+    <string name="nav_profile">Můj účet</string>
+    <string name="nav_add_recipient">Přidat příjemce</string>
+    <string name="nav_rate_app">Ohodnoťte aplikaci</string>
+    <string name="nav_help_feedback">Nápověda & amp; Zpětná vazba</string>
+
+    <string name="icon_hint">Automatické přemístění!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+    <string name="autoswipe_plus" translatable="false"><b>Získejte Automatické přemístění Plus</b><small>\n *Neomezené přemístění.\n *Bez REKLAM.</small></string>
+    <string name="wait_to_load">Počkejte prosím na načtení videa</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Jejda!</string>
+    <string name="tinder_dialog_message">Zdá se, že Tinder není stažena. Dovolte nám, abychom vás přesměrovali.</string>
+    <string name="dialog_title">Povolení aplikaci</string>
+    <string name="swipes_left">Přetáhni do leva :</string>
+    <string name="click_to_stop">Klepněte na tlačítko Stop!</string>
+    <string name="autoswipe">Automatické přemístění!</string>
+    <string name="premium">PREMIUM ÚČET</string>
+    <string name="dialog_message">Povolení na následujících obrazovkách povolte, aby aplikace fungovala.</string>
+
+    <string name="control_speed">Přetáhni rychle</string>
+</resources>
