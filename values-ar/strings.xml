@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AutoSwipe اليمين</string>
+    <string name="facebook_app_name">صوفان أوتوسويب</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_description">شغِّل المفتاح في الجزء العلوي الأيسر. يعد هذا ضروريًا لأتمتة المسح الضوئي في Tinder. \ n \ n ملاحظة: \ n قد تتلقى تحذيرًا بعد تشغيل هذه الشاشة. يمكنك تجاهل هذا بأمان لأن AutoSwipe لا يقوم بجمع أي من معلوماتك الشخصية.</string>
+    <string name="enable_accessibility">يرجى تمكين إمكانية الوصول</string>
+    <string name="accessibility_tutorial_message">للتمكين ، اسمح بـ AutoSwipe في الشاشات المستقبلية.</string>
+    <string name="not_now">ليس الآن</string>
+    <string name="enable">تفعيل</string>
+
+    <string name="nav_profile">حسابي</string>
+    <string name="nav_add_recipient">إضافة المستلمين</string>
+    <string name="nav_rate_app">تطبيق معدل</string>
+    <string name="nav_help_feedback">مساعدة. عودة المعلومات</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">حسنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="wait_to_load">الرجاء الانتظار حتى يتم تحميل الفيديو</string>
+    <string name="min">الحد الأدنى</string>
+    <string name="max">أقصى</string>
+    <string name="tinder_dialog_title">Oops!</string>
+    <string name="tinder_dialog_message">يبدو أن لا يتم تحميل Tinder. من فضلكم ، دعنا نعيد توجيهك.</string>
+    <string name="dialog_title">أذونات التطبيق</string>
+    <string name="swipes_left">عمليات المسح اليسرى:</string>
+    <string name="click_to_stop">انقر للتوقف!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">PREMIUM المستخدم</string>
+    <string name="dialog_message">الرجاء تمكين الأذونات في الشاشات التالية حتى يعمل التطبيق.</string>
+
+    <string name="control_speed">سرعة المسح</string>
+</resources>
