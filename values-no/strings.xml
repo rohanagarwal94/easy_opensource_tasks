@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_summary" translatable="false">Appen bruker klikkfunksjonaliteten til tjenesten</string>
+    <string name="service_description">Slå på bryteren oppe til høyre. Appen bruker bare klikkfunksjonaliteten til tjenesten for å automatisere sveipingen i Tinder. \ N \ n Merk: \ nDu kan motta en advarsel etter at du har snudd dette skjermbildet. Du kan trygt ignorere det, da AutoSwipe ikke samler inn noen av dine personlige opplysninger.</string>
+    <string name="enable_accessibility">Vennligst aktiver tilgjengelighet til appen</string>
+    <string name="accessibility_tutorial_message">For å aktivere, tillat AutoSwipe i de kommende skjermbildene.</string>
+    <string name="not_now">IKKE NÅ</string>
+    <string name="enable">AKTIVER</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Min konto</string>
+    <string name="nav_add_recipient">Legg til mottakere</string>
+    <string name="nav_rate_app">Vurder app/string>
+    <string name="nav_help_feedback">Hjelp &amp; Tilbakemeldinger</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="autoswipe_plus" translatable="false"><b>Kjøp Autoswipe Pluss</b><small>\n *Ubegrenset sveiper.\n *Ingen reklame.</small></string>
+    <string name="wait_to_load">Vent til videoen lastes inn</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Oops!</string>
+    <string name="tinder_dialog_message">Det virker som om Tinder ikke er lastet ned. Tillat oss å omdirigere deg.</string>
+    <string name="dialog_title">App Tilganger</string>
+    <string name="swipes_left">Sveiper igjen :</string>
+    <string name="click_to_stop">Klikk for å stoppe!</string>
+    <string name="autoswipe">Autosveipe!</string>
+    <string name="premium">PREMIUM BRUKER</string>
+    <string name="dialog_message">Aktiver tillatelsene i følgende skjermbilder for at appen skal fungere.</string>
+
+    <string name="control_speed">Sveipe hastighet</string>
+</resources>
