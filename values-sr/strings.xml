@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_summary" translatable="false">The app uses the click functionality of the service</string>
+    <string name="service_description">Uključite prekidač na vrhu desno. Ova aplikacija koristi klik funkcionalnost servisa da automatizuje prevlačenje u Tinderu.\n\nNapomena:\nMožete dobiti upozorenje posle ovog ekrana. Možete ga bezbedno ignorisati, jer AutoSwipe ne prikuplja nikakve lične informacije.</string>
+    <string name="enable_accessibility">Molimo Vas, omogućite Please enable pristupačnost.</string>
+    <string name="accessibility_tutorial_message">Da biste aktivirali, dozvolite AutoSwipe na sledećim ekranima.</string>
+    <string name="not_now">NE SADA</string>
+    <string name="enable">AKTIVIRAJ</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Moj nalog</string>
+    <string name="nav_add_recipient">Dodaj primaoce</string>
+    <string name="nav_rate_app">Oceni aplikaciju</string>
+    <string name="nav_help_feedback">Pomoć &amp; Povratne informacije</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Otkaži</string>
+    <string name="autoswipe_plus" translatable="false"><b>Get Autoswipe Plus</b><small>\n *Unlimited swipes.\n *No ads.</small></string>
+    <string name="wait_to_load">Molimo sačekajte da se video učita</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+    <string name="tinder_dialog_title">Uuuups!</string>
+    <string name="tinder_dialog_message">Izgleda da Tinder nije instaliran. Molimo dozvolite nam da Vas preusmerimo.</string>
+    <string name="dialog_title">Dozvole aplikacije</string>
+    <string name="swipes_left">Prevlači ulevo:</string>
+    <string name="click_to_stop">Kliknite za zaustavljanje!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">PREMIUM KORISNIK</string>
+    <string name="dialog_message">Molimo omogućite dozvole na narednim ekranima kako bi aplikacija mogla da radi.</string>
+
+    <string name="control_speed">Brzina prevlačenja</string>
+</resources>
